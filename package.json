@@ -1,0 +1,24 @@
+{
+  "name": "bank_app",
+  "version": "1.0.0",
+  "description": "banking application",
+  "main": "bankapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:\\Users\\Abhishek.Sharma\\nodejs\\bank_app"
+  },
+  "author": "Abhishek Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "log4js": "^6.9.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
