@@ -1,5 +1,5 @@
 const { fileNanme, logger } = require('../log4');
-const BranchRepo = require('../model/branch_repo');
+const BranchRepo = require('../models/branch_repo');
 
 var fname;
 
